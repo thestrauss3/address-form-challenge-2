@@ -1,0 +1,15 @@
+
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #d6d4d6;
+  font-family: 'Libre Franklin', sans-serif;
+}
+
+h1 {
+  font-family: 'Libre Baskerville', serif;
+}
+#wrapper {
+  color:blue;
+}
